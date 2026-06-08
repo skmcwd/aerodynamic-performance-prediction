@@ -1,0 +1,11 @@
+﻿metric,value
+synthetic_count,920.00000000
+same_true_category_rate,1.00000000
+source_anchor_nearest_rate,0.95217391
+within_real_manifold_rate,1.00000000
+real_manifold_threshold_scaled,1.79394207
+median_nearest_real_distance_scaled,0.28605256
+p95_nearest_real_distance_scaled,0.29772639
+synthetic_count_Low-subsonic,520
+synthetic_count_Transonic,400
+synthetic_count_Supersonic,0
