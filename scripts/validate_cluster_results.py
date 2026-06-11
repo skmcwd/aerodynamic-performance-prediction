@@ -38,7 +38,7 @@ class Config:
     category_order: tuple[str, str, str] = ("Low-subsonic", "Transonic", "Supersonic")
     score_columns: tuple[str, str, str] = ("score_Ma_0.25", "score_Ma_0.734", "score_Ma_1.5")
     palette: dict[str, str] | None = None
-    figure_dpi: int = 320
+    figure_dpi: int = 420
 
     def colors(self) -> dict[str, str]:
         """返回固定配色，保证所有验证图风格一致。"""

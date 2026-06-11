@@ -1,0 +1,41 @@
+﻿diagnostic_type,recomputed_mode,original_mode,metric,value,abs_value,notes
+explained_variance,recomputed_mode_1,,explained_variance_ratio,0.5376137701,0.5376137701,cumulative=0.5376137701
+explained_variance,recomputed_mode_2,,explained_variance_ratio,0.4062158700,0.4062158700,cumulative=0.9438296400
+explained_variance,recomputed_mode_3,,explained_variance_ratio,0.0359416907,0.0359416907,cumulative=0.9797713308
+explained_variance,recomputed_mode_4,,explained_variance_ratio,0.0120652636,0.0120652636,cumulative=0.9918365944
+explained_variance,recomputed_mode_5,,explained_variance_ratio,0.0040063073,0.0040063073,cumulative=0.9958429017
+explained_variance,recomputed_mode_6,,explained_variance_ratio,0.0023000278,0.0023000278,cumulative=0.9981429295
+explained_variance,recomputed_mode_7,,explained_variance_ratio,0.0006881267,0.0006881267,cumulative=0.9988310561
+explained_variance,recomputed_mode_8,,explained_variance_ratio,0.0005422484,0.0005422484,cumulative=0.9993733046
+explained_variance,recomputed_mode_9,,explained_variance_ratio,0.0002417716,0.0002417716,cumulative=0.9996150762
+explained_variance,recomputed_mode_10,,explained_variance_ratio,0.0001495458,0.0001495458,cumulative=0.9997646220
+explained_variance,recomputed_mode_11,,explained_variance_ratio,0.0000757938,0.0000757938,cumulative=0.9998404158
+explained_variance,recomputed_mode_12,,explained_variance_ratio,0.0000555914,0.0000555914,cumulative=0.9998960072
+explained_variance,recomputed_mode_13,,explained_variance_ratio,0.0000372662,0.0000372662,cumulative=0.9999332734
+explained_variance,recomputed_mode_14,,explained_variance_ratio,0.0000269019,0.0000269019,cumulative=0.9999601753
+explained_variance,recomputed_mode_15,,explained_variance_ratio,0.0000155238,0.0000155238,cumulative=0.9999756991
+explained_variance,recomputed_mode_16,,explained_variance_ratio,0.0000114743,0.0000114743,cumulative=0.9999871734
+explained_variance,recomputed_mode_17,,explained_variance_ratio,0.0000075395,0.0000075395,cumulative=0.9999947129
+explained_variance,recomputed_mode_18,,explained_variance_ratio,0.0000030186,0.0000030186,cumulative=0.9999977315
+explained_variance,recomputed_mode_19,,explained_variance_ratio,0.0000022685,0.0000022685,cumulative=1.0000000000
+reconstruction,first_19_modes,,mean_rmse_y,0.0000000000,0.0000000000,PCA reconstruction error on original coordinate set
+reconstruction,first_19_modes,,p95_rmse_y,0.0000000000,0.0000000000,PCA reconstruction error on original coordinate set
+original_mode_alignment,recomputed_mode_1,Mode 1,best_abs_pearson_correlation,-0.8692827402,0.8692827402,High values imply similar span/order; low values mean the historical basis is not recoverable exactly.
+original_mode_alignment,recomputed_mode_2,Mode 11,best_abs_pearson_correlation,-0.7368607584,0.7368607584,High values imply similar span/order; low values mean the historical basis is not recoverable exactly.
+original_mode_alignment,recomputed_mode_3,Mode 9,best_abs_pearson_correlation,-0.5238565116,0.5238565116,High values imply similar span/order; low values mean the historical basis is not recoverable exactly.
+original_mode_alignment,recomputed_mode_4,Mode 1,best_abs_pearson_correlation,-0.2738626613,0.2738626613,High values imply similar span/order; low values mean the historical basis is not recoverable exactly.
+original_mode_alignment,recomputed_mode_5,Mode 19,best_abs_pearson_correlation,-0.4508246266,0.4508246266,High values imply similar span/order; low values mean the historical basis is not recoverable exactly.
+original_mode_alignment,recomputed_mode_6,Mode 16,best_abs_pearson_correlation,-0.3986862533,0.3986862533,High values imply similar span/order; low values mean the historical basis is not recoverable exactly.
+original_mode_alignment,recomputed_mode_7,Mode 19,best_abs_pearson_correlation,-0.1776196984,0.1776196984,High values imply similar span/order; low values mean the historical basis is not recoverable exactly.
+original_mode_alignment,recomputed_mode_8,Mode 3,best_abs_pearson_correlation,0.4024672721,0.4024672721,High values imply similar span/order; low values mean the historical basis is not recoverable exactly.
+original_mode_alignment,recomputed_mode_9,Mode 3,best_abs_pearson_correlation,-0.2706456371,0.2706456371,High values imply similar span/order; low values mean the historical basis is not recoverable exactly.
+original_mode_alignment,recomputed_mode_10,Mode 12,best_abs_pearson_correlation,-0.2963102278,0.2963102278,High values imply similar span/order; low values mean the historical basis is not recoverable exactly.
+original_mode_alignment,recomputed_mode_11,Mode 3,best_abs_pearson_correlation,0.2165915213,0.2165915213,High values imply similar span/order; low values mean the historical basis is not recoverable exactly.
+original_mode_alignment,recomputed_mode_12,Mode 16,best_abs_pearson_correlation,-0.3880266370,0.3880266370,High values imply similar span/order; low values mean the historical basis is not recoverable exactly.
+original_mode_alignment,recomputed_mode_13,Mode 14,best_abs_pearson_correlation,0.2809169561,0.2809169561,High values imply similar span/order; low values mean the historical basis is not recoverable exactly.
+original_mode_alignment,recomputed_mode_14,Mode 12,best_abs_pearson_correlation,0.1458272706,0.1458272706,High values imply similar span/order; low values mean the historical basis is not recoverable exactly.
+original_mode_alignment,recomputed_mode_15,Mode 14,best_abs_pearson_correlation,-0.2455020327,0.2455020327,High values imply similar span/order; low values mean the historical basis is not recoverable exactly.
+original_mode_alignment,recomputed_mode_16,Mode 7,best_abs_pearson_correlation,0.2894676031,0.2894676031,High values imply similar span/order; low values mean the historical basis is not recoverable exactly.
+original_mode_alignment,recomputed_mode_17,Mode 16,best_abs_pearson_correlation,0.3006561570,0.3006561570,High values imply similar span/order; low values mean the historical basis is not recoverable exactly.
+original_mode_alignment,recomputed_mode_18,Mode 9,best_abs_pearson_correlation,0.4372323038,0.4372323038,High values imply similar span/order; low values mean the historical basis is not recoverable exactly.
+original_mode_alignment,recomputed_mode_19,Mode 18,best_abs_pearson_correlation,0.4592460069,0.4592460069,High values imply similar span/order; low values mean the historical basis is not recoverable exactly.
